@@ -4,8 +4,8 @@
 
 import 'dart:io';
 
-import 'package:flutter/gestures.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter_web/gestures.dart';
+import 'package:flutter_web/widgets.dart';
 import 'package:markdown/markdown.dart' as md;
 import 'package:path/path.dart' as p;
 
